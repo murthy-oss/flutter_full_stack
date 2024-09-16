@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "311302968084",
+    "project_id": "flutterfullstack-9448e",
+    "storage_bucket": "flutterfullstack-9448e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311302968084:android:668f2d5f002acab8cc2801",
+        "android_client_info": {
+          "package_name": "com.example.flutter_full_stack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYVWVzmNuZ9ZHuhtg2wJJBwPcmlzoIOSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
